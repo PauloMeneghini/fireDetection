@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1728228764 source:c:\projetos\fire_simulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	<locale.h>
+	"functions.h"
+
+1728228743 c:\projetos\fire_simulation\functions.h
+
+1728228750 source:c:\projetos\fire_simulation\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	<stdbool.h>
+	"functions.h"
+
+1728259523 source:c:\users\paulo\downloads\fire_simulation-main\fire_simulation-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	<locale.h>
+	"functions.h"
+
+1728259616 c:\users\paulo\downloads\fire_simulation-main\fire_simulation-main\functions.h
+
+1728259540 source:c:\users\paulo\downloads\fire_simulation-main\fire_simulation-main\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	<stdbool.h>
+	"functions.h"
+
